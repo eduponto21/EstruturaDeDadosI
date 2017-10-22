@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1506357295 source:/home/todos/alunos/ct/a1906399/Área de Trabalho/EstruturaDeDadosI-master/ListaSequencial.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+
+1506911626 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/Base.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	"Base.hpp"
+
+1506371584 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/EduDarrazao1906399 - ListaDeClientes.cpp
+
+1506911499 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ListaSequencial.hpp
+	"Base.hpp"
+
+1506911671 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/Base.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+
+1506476734 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ListaEncadeada.hpp
+	"Base.hpp"
+
+1508655828 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ListaEncadeada.cpp
+	"ListaEncadeada.hpp"
+
+1506911476 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ListaSequencial.cpp
+	"ListaSequencial.hpp"
+
+1508705404 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/Main.cpp
+	"SelectionSort.hpp"
+	"InsertionSort.hpp"
+	"MergeSort.hpp"
+	"BubbleSort.hpp"
+	"ShellSort.hpp"
+	"QuickSort.hpp"
+
+1507090466 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/SelectionSort.cpp
+	"SelectionSort.hpp"
+
+1506905268 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/SelectionSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1507090703 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/InsertionSort.cpp
+	"InsertionSort.hpp"
+
+1506486373 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/InsertionSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1508690072 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/MergeSort.cpp
+	"MergeSort.hpp"
+
+1508689264 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/MergeSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1508656331 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/BubbleSort.cpp
+	"BubbleSort.hpp"
+
+1506905634 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/BubbleSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1506908317 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ShellSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1508656035 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/ShellSort.cpp
+	"ShellSort.hpp"
+
+1508705051 /home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/QuickSort.hpp
+	"ListaSequencial.hpp"
+	"ListaEncadeada.hpp"
+
+1508705603 source:/home/uckaah/CodeBlocksProjects/EstruturaDeDadosI/QuickSort.cpp
+	"QuickSort.hpp"
+
